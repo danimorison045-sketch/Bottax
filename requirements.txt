@@ -1,0 +1,12 @@
+﻿langchain
+langchain_community
+langchain_huggingface
+faiss-cpu
+pypdf
+sentence-transformers
+huggingface_hub
+numpy
+pandas
+streamlit
+speechrecognition
+pydub
